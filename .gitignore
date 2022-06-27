@@ -1,0 +1,39 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+# Mac OS X
+.DS_Store
+.idea/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Visual Studio Code configuration directory
+.vscode
+
+# Ignore auto-build
+bin
+
+# Ignore Gradle build output directory
+build
+
+# Ignore IDEA out directory
+out
+.classpath
+.project
+.settings/
+
+/bin/
+*.iml
+
+report
+/target/
+data
+dest
+docs/DesignDocument
+docs/Evaluation
+docs/Output
+./*.txt
+
